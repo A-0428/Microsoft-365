@@ -3,6 +3,6 @@
 ## 此現象是微軟做的內部更新所導致的，可以透過以下方式調整回中英文姓名顯示
 前往Microsoft 365 admin center https://admin.microsoft.com/ <br>
 * 至左邊選單中點選 <br>
-1. 設定<br>
-2. 組織設定<br>
-3. 報告<br>
+  1. 設定<br>
+  2. 組織設定<br>
+  3. 報告<br>
